@@ -1,0 +1,4 @@
+* External IP is internet addressable
+* Internal IP is internal to a corporate network
+* If you need external IP to be assigned to your VM, you have to configure it
+* External IPs can change during restarts of VMs (unless reserved)
